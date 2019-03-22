@@ -37,7 +37,7 @@ plt.yticks([])
 plt.show
 ```
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/map_2d.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/map_2d.png)
 
 ---
 
@@ -68,12 +68,13 @@ obs_1.update_raycasting()
 obs_1.plot_screen()
 ```
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/render_1.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/render_1.png)
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/render_2.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/render_2.png)
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/render_3.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/render_3.png)
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/render_4.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/render_4.png)
 
-![](/home/lucas/ssd1/Users/Lucas/Desktop/PycharmProjects/Pygame/Raycasting/image/render_5.png)
+![](https://raw.githubusercontent.com/lsmanoel/raycasting/master/image/render_5.png)
+

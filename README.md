@@ -41,7 +41,7 @@ plt.show
 
 ---
 
-**Render Map:**
+**Rendering Map:**
 
 ```python
 obs_1 = observer(wall_map, texture_mode=True)
